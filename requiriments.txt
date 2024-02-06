@@ -1,0 +1,4 @@
+openvc-python
+ultralytics
+onnxruntime
+cap-from-youtube
