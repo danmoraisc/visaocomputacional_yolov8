@@ -1,4 +1,4 @@
-# YOLO v8 Object Detection
+# Detection de objetos com YOLOv8 
 
 Este repositório contém uma implementação de detecção de objetos usando YOLO v8 em vídeos. 
 O projeto inclui 5 modelos pré-treinados ('n', 's', 'm', 'l', 'x') correspondentes a Nano, Pequeno, Médio, Grande e Extragrande, respectivamente.
